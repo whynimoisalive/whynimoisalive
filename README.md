@@ -1,52 +1,63 @@
-<p align="center">
-  <img src="./glassmorphism-hero.svg" alt="Nimish Shinde. Developer at Syngenta, studying Data Science at IIT Madras. Data systems, AI and useful software." width="100%" />
-</p>
+<div align="center">
+  <img src="./retro-welcome.svg" width="100%" alt="Welcome to Nimish's corner of the internet. Developer at Syngenta and IIT Madras BS Data Science student." />
+  <br /><br />
+  <samp>Hi, I'm Nimish. I write Python, SQL, and the occasional PowerShell script.</samp>
+  <br />
+  <samp>This is where my side projects live.</samp>
+  <br /><br />
+</div>
 
-<p align="center">
-  <a href="#approach">approach</a> &nbsp; / &nbsp;
-  <a href="#selected-work">selected work</a> &nbsp; / &nbsp;
-  <a href="#toolkit">toolkit</a> &nbsp; / &nbsp;
-  <a href="#beyond-the-code">beyond the code</a>
-</p>
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<h3>💾 FocusDaddy</h3>
+<p>A Windows focus timer that blocks distracting websites and apps.</p>
+<p><samp>PowerShell · Windows automation</samp></p>
+<p><a href="https://github.com/whynimoisalive/FocusDaddy"><strong>[ OPEN PROJECT ]</strong></a></p>
+</td>
+<td width="50%" align="center">
+<h3>📄 IITM PYQ Converter</h3>
+<p>Remove answer ticks and crosses from question-paper PDFs before practising.</p>
+<p><samp>Python · PDF processing</samp></p>
+<p><a href="https://github.com/whynimoisalive/IITM-PYQ-CONVERTOR"><strong>[ OPEN PROJECT ]</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<h3>🛰️ Remote-sensing experiments</h3>
+<p>Exploring infrastructure extraction from satellite imagery.</p>
+<p><samp>Python · Machine learning</samp></p>
+<p><a href="https://github.com/whynimoisalive/Goofy-HighRes-ML"><strong>[ OPEN PROJECT ]</strong></a></p>
+</td>
+<td width="50%" align="center">
+<h3>🗂️ The rest of the folder</h3>
+<p>Other experiments, student tools, and things I've tried building.</p>
+<p><samp>Some finished. Some still experiments.</samp></p>
+<p><a href="https://github.com/whynimoisalive?tab=repositories"><strong>[ BROWSE FILES ]</strong></a></p>
+</td>
+</tr>
+</table>
 
-### approach
+<details>
+<summary><strong>📓 A little more about me</strong></summary>
 
-I'm Nimish, a developer at **Syngenta** and a **BS Data Science and Applications student at IIT Madras**, based in Pune, India.
+I'm based in Pune. At Syngenta, I work on Python and SQL tooling for data migration and validation. My employer's code and data stay private.
 
-I work across data engineering, applied AI, and full-stack applications. My current work includes Python and SQL tooling for Redshift-to-Databricks migration, query reconciliation, and data-quality validation. I'm especially interested in AI systems grounded in metadata, with clear explanations and deterministic checks.
+I'm also studying Data Science and Applications at IIT Madras. Outside coursework, I've worked on student platforms, hackathon tools, and InfinAI, a student AI/ML club I founded.
 
-I like building things, then understanding why they work.
+Most of my work uses **Python, SQL, Databricks, React, and TypeScript**.
 
-### selected work
+</details>
 
-**01 / [FocusDaddy](https://github.com/whynimoisalive/FocusDaddy)**  
-A Windows focus-session tool with website and app blocking, configurable sessions, and recovery controls. Built around making deliberate focus practical on a real desktop.  
-<sub>PowerShell · JSON · Windows automation</sub>
-
-**02 / [IITM PYQ Converter](https://github.com/whynimoisalive/IITM-PYQ-CONVERTOR)**  
-A PDF utility that removes ticks and crosses from previous-year question papers, with a black-and-white option for preparing practice copies.  
-<sub>Python · PDF processing · Student tools</sub>
-
-**03 / [Remote-sensing ML](https://github.com/whynimoisalive/Goofy-HighRes-ML)**  
-An exploratory project investigating infrastructure-feature extraction from high-resolution satellite imagery. A space for learning and testing geospatial ML ideas, not a claimed production deployment.  
-<sub>Python · Machine learning · Geospatial imagery</sub>
-
-### toolkit
-
-| data & AI | applications | engineering |
-| :--- | :--- | :--- |
-| Python · SQL | FastAPI · Streamlit | Git · Linux |
-| Databricks · Redshift | React · Next.js | Docker · PostgreSQL |
-| Pandas · PyTorch | TypeScript | SQLite |
-
-### beyond the code
-
-My student-community work includes Tech Society platforms, hackathon tooling, and founding **InfinAI**, an AI/ML club. I enjoy turning complicated workflows into tools people can actually use.
-
-I'm interested in **software engineering, data engineering, and applied AI** opportunities where correctness, clear explanations, and useful interfaces matter.
-
----
-
-<sub>Public projects and experiments only. Employer code, datasets, and internal documentation stay private.</sub>
-
-<sub>Visual template: <a href="https://github.com/beydemirfurkan/awesome-github-profile/tree/main/templates/06-designer-portfolio/glassmorphism-hero">Glassmorphism Hero</a> · personalized with the original layout and animation preserved.</sub>
+<br />
+<div align="center">
+  <h3>📖 Guestbook</h3>
+  <p>Found a bug? Have an idea? Just passing through?</p>
+  <a href="https://github.com/whynimoisalive/whynimoisalive/issues/new?title=Hello%20Nimish"><strong>[ LEAVE A NOTE ]</strong></a>
+  <br /><br />
+  <samp>Thanks for stopping by!</samp>
+  <br /><br />
+  <kbd>HAND-CODED</kbd> &nbsp; <kbd>NO VISITOR COUNTER</kbd> &nbsp; <kbd>BEST VIEWED WITH CURIOSITY</kbd>
+  <br /><br />
+  <sub>Layout inspired by <a href="https://github.com/BrunnerLivio">BrunnerLivio</a>. Original graphics, no copied artwork.</sub>
+</div>
