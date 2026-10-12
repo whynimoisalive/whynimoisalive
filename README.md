@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/609tir.jpg"  />
+<img align="right" height="150" src="https://media.tenor.com/mCUkEFYnjQsAAAAC/hououin-kyouma-okabe-rintarou.gif" alt="Hououin Kyouma, Rintaro Okabe from Steins;Gate"  />
 
 ###
 
