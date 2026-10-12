@@ -1,63 +1,70 @@
+<h2 align="left">Hi 👋! My name is Nimish</h2>
+
+###
+
 <div align="center">
-  <img src="./retro-welcome.svg" width="100%" alt="Welcome to Nimish's corner of the internet. Developer at Syngenta and IIT Madras BS Data Science student." />
-  <br /><br />
-  <samp>Hi, I'm Nimish. I write Python, SQL, and the occasional PowerShell script.</samp>
-  <br />
-  <samp>This is where my side projects live.</samp>
-  <br /><br />
+  <img src="https://github-stats-extended.vercel.app/api?username=whynimoisalive&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=whynimoisalive&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-<h3>💾 FocusDaddy</h3>
-<p>A Windows focus timer that blocks distracting websites and apps.</p>
-<p><samp>PowerShell · Windows automation</samp></p>
-<p><a href="https://github.com/whynimoisalive/FocusDaddy"><strong>[ OPEN PROJECT ]</strong></a></p>
-</td>
-<td width="50%" align="center">
-<h3>📄 IITM PYQ Converter</h3>
-<p>Remove answer ticks and crosses from question-paper PDFs before practising.</p>
-<p><samp>Python · PDF processing</samp></p>
-<p><a href="https://github.com/whynimoisalive/IITM-PYQ-CONVERTOR"><strong>[ OPEN PROJECT ]</strong></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<h3>🛰️ Remote-sensing experiments</h3>
-<p>Exploring infrastructure extraction from satellite imagery.</p>
-<p><samp>Python · Machine learning</samp></p>
-<p><a href="https://github.com/whynimoisalive/Goofy-HighRes-ML"><strong>[ OPEN PROJECT ]</strong></a></p>
-</td>
-<td width="50%" align="center">
-<h3>🗂️ The rest of the folder</h3>
-<p>Other experiments, student tools, and things I've tried building.</p>
-<p><samp>Some finished. Some still experiments.</samp></p>
-<p><a href="https://github.com/whynimoisalive?tab=repositories"><strong>[ BROWSE FILES ]</strong></a></p>
-</td>
-</tr>
-</table>
+###
 
-<details>
-<summary><strong>📓 A little more about me</strong></summary>
+<img align="right" height="150" src="https://i.imgflip.com/609tir.jpg"  />
 
-I'm based in Pune. At Syngenta, I work on Python and SQL tooling for data migration and validation. My employer's code and data stay private.
+###
 
-I'm also studying Data Science and Applications at IIT Madras. Outside coursework, I've worked on student platforms, hackathon tools, and InfinAI, a student AI/ML club I founded.
-
-Most of my work uses **Python, SQL, Databricks, React, and TypeScript**.
-
-</details>
-
-<br />
-<div align="center">
-  <h3>📖 Guestbook</h3>
-  <p>Found a bug? Have an idea? Just passing through?</p>
-  <a href="https://github.com/whynimoisalive/whynimoisalive/issues/new?title=Hello%20Nimish"><strong>[ LEAVE A NOTE ]</strong></a>
-  <br /><br />
-  <samp>Thanks for stopping by!</samp>
-  <br /><br />
-  <kbd>HAND-CODED</kbd> &nbsp; <kbd>NO VISITOR COUNTER</kbd> &nbsp; <kbd>BEST VIEWED WITH CURIOSITY</kbd>
-  <br /><br />
-  <sub>Layout inspired by <a href="https://github.com/BrunnerLivio">BrunnerLivio</a>. Original graphics, no copied artwork.</sub>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="30" alt="aarch64 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="30" alt="neo4j logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<!-- Layout adapted from https://github.com/NevroHelios. Contact badges remain unlinked until personal URLs are confirmed. Daily activity graph omitted at Nimish's request. -->
