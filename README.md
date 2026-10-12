@@ -3,13 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=whynimoisalive&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=whynimoisalive&show_icons=true&theme=dracula&hide_rank=true" height="150" alt="stats graph"  />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=whynimoisalive&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/mCUkEFYnjQsAAAAC/hououin-kyouma-okabe-rintarou.gif" alt="Hououin Kyouma, Rintaro Okabe from Steins;Gate"  />
+<img align="right" width="150" height="150" src="./hououin-kyouma-square.gif" alt="Hououin Kyouma, Rintaro Okabe from Steins;Gate"  />
 
 ###
 
