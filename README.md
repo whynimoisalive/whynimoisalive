@@ -1,8 +1,6 @@
 <div align="center">
 
-# Nimish Shinde
-
-**DATA SYSTEMS · APPLIED AI · USEFUL SOFTWARE**
+<img src="./banner.svg" alt="Nimish Shinde — Data systems, applied AI, useful software" width="100%">
 
 Developer at **Syngenta** · BS Data Science & Applications, **IIT Madras**  
 Pune, India
