@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Nimish Shinde — Data systems, applied AI, useful software</title>
+  <desc id="desc">A restrained midnight-blue banner with cream typography, a mint accent, and an abstract connected-node motif.</desc>
+  <rect width="1200" height="300" rx="16" fill="#101c29"/>
+  <path d="M880 0V300M1000 0V300M1120 0V300M820 60H1200M820 150H1200M820 240H1200" stroke="#263744" stroke-width="1"/>
+  <circle cx="1000" cy="150" r="100" fill="none" stroke="#38565c"/>
+  <circle cx="1000" cy="150" r="62" fill="none" stroke="#38565c"/>
+  <path d="M880 240L1000 150L1120 60M880 60L1000 150L1120 240" fill="none" stroke="#91d7bd" stroke-width="2"/>
+  <g fill="#91d7bd"><circle cx="880" cy="240" r="5"/><circle cx="1000" cy="150" r="7"/><circle cx="1120" cy="60" r="5"/><circle cx="880" cy="60" r="5"/><circle cx="1120" cy="240" r="5"/></g>
+  <rect x="72" y="67" width="36" height="4" rx="2" fill="#91d7bd"/>
+  <text x="72" y="135" fill="#f3efe4" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="650" letter-spacing="-1.5">Nimish Shinde</text>
+  <text x="75" y="181" fill="#b8c7ce" font-family="Segoe UI,Arial,sans-serif" font-size="21">Data systems. Applied AI. Useful software.</text>
+  <text x="75" y="235" fill="#91d7bd" font-family="Consolas,monospace" font-size="15" letter-spacing="2">BUILD / UNDERSTAND / REFINE</text>
+</svg>
