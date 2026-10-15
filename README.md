@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" width="150" height="150" src="./hououin-kyouma-square.gif" alt="Hououin Kyouma, Rintaro Okabe from Steins;Gate"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
   <img width="12" />
@@ -65,6 +61,8 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img width="150" height="150" src="./hououin-kyouma-square.gif" alt="Hououin Kyouma, Rintaro Okabe from Steins;Gate" />
+</div>
 
 <!-- Layout adapted from https://github.com/NevroHelios. Contact badges remain unlinked until personal URLs are confirmed. Daily activity graph omitted at Nimish's request. -->
